@@ -33,3 +33,11 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+*/*/XPS_ROACH_base
+*/*/sysgen
+*/*/bit_files
+*/*/core_info.m
+*sysgen.log
+*sysgen_error.log
+*.autosave
