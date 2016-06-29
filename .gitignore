@@ -11,3 +11,9 @@
 !README
 !*.mat
 !*.m
+system_pad.txt
+msgs.txt
+bram_flist.txt
+blk_mem_gen*.txt
+core_info.m
+bram_readme.txt
