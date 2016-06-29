@@ -1,45 +1,13 @@
-*.py[cod]
-
-*.log
-
-# C extensions
-*.so
-
-# Packages
-*.egg
-*.egg-info
-dist
-build
-eggs
-parts
-bin
-var
-sdist
-develop-eggs
-.installed.cfg
-lib
-lib64
-
-# Installer logs
-pip-log.txt
-
-# Unit test / coverage reports
-.coverage
-.tox
-nosetests.xml
-
-# Translations
-*.mo
-
-# Mr Developer
-.mr.developer.cfg
-.project
-.pydevproject
-
-*/*/XPS_ROACH_base
-*/*/sysgen
-*/*/bit_files
-*/*/core_info.m
-*sysgen.log
-*sysgen_error.log
-*.autosave
+# Ignore everything
+*
+# Don't ignore directories, so we can recurse into them
+!*/
+# Don't ignore .gitignore and *.foo files
+!.gitignore
+!*.slx
+!*.mdl
+!*.md
+!*.txt
+!README
+!*.mat
+!*.m
